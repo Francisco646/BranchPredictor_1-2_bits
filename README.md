@@ -8,7 +8,7 @@ Make sure you have Node.js installed in your computer. To run the program, just 
 Now, make sure that you follow these steps so that you'll be able to run your code.
 
 ### 1. Clone the repository
-First, download the files to your computer and unzip the folder. Then move these folder to the location you prefer to.
+First, download the files to your computer and unzip the folder. Then move the files to the location you prefer to. Files are preferable to be in the same folder, so make sure you put them together.
 
 ### 2. Prepare the input file
 For this step, it is important to put the files at the same folder in which the program to execute is currently at. Each line will have a format like the following ones:
