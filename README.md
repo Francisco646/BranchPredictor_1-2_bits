@@ -1,6 +1,6 @@
 # BranchPredictor_1-2_bits
 
-This repository contains a JavaScript program that simulates two branch predictors: a 1 bit predictor and a 2 bit predictor. Both predictors read branch address outcomes from a file and calculates the prediction accuracy.
+At this public repository, you can find two JavaScript files that simulates two branch predictors, respectively: a 1 bit predictor and a 2 bit predictor. Both predictors read branch addresses and their outcomes from a file, then calculates the prediction accuracy of the predictor.
 
 ## Prerequisites
 Make sure you have Node.js installed in your computer. To run the program, just go to the official Node.js website and download it into your machine.
